@@ -1,3 +1,3 @@
 # configs
 
-###neovim and awesome configurations
+### neovim and awesome configurations
