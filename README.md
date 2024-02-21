@@ -1,1 +1,1 @@
-##  My neovim and awesome configurations
+##  My neovim and awesome wm configurations
